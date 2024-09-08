@@ -1,4 +1,4 @@
-I'm programmer and social sciences student. Profesinally, I mostly develop for web platform, but I tinker with computers in general. I'm eclectic in my choice of programming languages and tools.
+I'm programmer and social sciences student. Profesionally, I mostly develop for web platform, but I tinker with computers in general. I'm eclectic in my choice of programming languages and tools.
 Member of [druit.org](https://druit.org/) cooperative and [nolog.cz](https://nolog.cz/) collective.
 
 My areas of interest:
